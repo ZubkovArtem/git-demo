@@ -1,3 +1,6 @@
 test
 new test
 new test 2
+
+some new content
+---------------------------
